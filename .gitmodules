@@ -1,0 +1,3 @@
+[submodule "themes/jitdb-hugo-theme"]
+	path = themes/jitdb-hugo-theme
+	url = https://github.com/jitdb/jitdb-hugo-theme
